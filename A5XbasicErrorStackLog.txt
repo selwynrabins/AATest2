@@ -1,0 +1,45 @@
+Fri Sep  1 11:23:26 2017
+ Property not found 
+pi.recordsImported subelement not found.
+Execution Stack:
+0#1 evaluate_shared_private(           
+0#39 OOhttpdServerClientMIME(ptemp,"AppServerMain")
+0#2 A5WCallResult = evaluate_a5w_to_response(page_contents,Response,quote(" " + eval_settings.global.Request.ScriptName),eval_settings,EVALUATE_A5W_TIMEOUT,RequestBundle.RequestInfo.Filename.Path)
+0#180 x_out = a5_ajax_dialog2(tmpl)
+==========================================================
+Fri Sep  1 11:23:26 2017
+ Script:a5dialogHelper_importIntoList() line:264
+Property not found 
+pi.recordsImported subelement not found.
+Execution Stack:
+0#1 evaluate_shared_private(           
+0#39 OOhttpdServerClientMIME(ptemp,"AppServerMain")
+0#2 A5WCallResult = evaluate_a5w_to_response(page_contents,Response,quote(" " + eval_settings.global.Request.ScriptName),eval_settings,EVALUATE_A5W_TIMEOUT,RequestBundle.RequestInfo.Filename.Path)
+0#180 x_out = a5_ajax_dialog2(tmpl)
+==========================================================
+Fri Sep  1 11:23:26 2017
+ Script:a5dialogHelper_importIntoList() line:264
+Property not found 
+pi.recordsImported subelement not found.
+Execution Stack:
+0#1 evaluate_shared_private(           
+0#39 OOhttpdServerClientMIME(ptemp,"AppServerMain")
+0#2 A5WCallResult = evaluate_a5w_to_response(page_contents,Response,quote(" " + eval_settings.global.Request.ScriptName),eval_settings,EVALUATE_A5W_TIMEOUT,RequestBundle.RequestInfo.Filename.Path)
+0#180 x_out = a5_ajax_dialog2(tmpl)
+==========================================================
+Fri Sep  1 11:23:26 2017
+
+Thread: AppServerWorker7
+Request URI: /LivePreview/__a5RunDialog.a5w?__pageName=Import_To_List_Test_Case_PageLayoutLivePreview.a5w&__dialogFilename=Import_To_List_Test_Case&__alias=DLG1&__unsaved=no&returnDataType=javascript
+Script: " /LivePreview/__a5RunDialog.a5w"
+Line: 180
+x_out = a5_ajax_dialog2(tmpl)
+Script:a5dialogHelper_importIntoList() line:264
+Property not found 
+pi.recordsImported subelement not found.
+Execution Stack:
+0#1 evaluate_shared_private(           
+0#39 OOhttpdServerClientMIME(ptemp,"AppServerMain")
+0#2 A5WCallResult = evaluate_a5w_to_response(page_contents,Response,quote(" " + eval_settings.global.Request.ScriptName),eval_settings,EVALUATE_A5W_TIMEOUT,RequestBundle.RequestInfo.Filename.Path)
+0#180 x_out = a5_ajax_dialog2(tmpl)
+==========================================================
